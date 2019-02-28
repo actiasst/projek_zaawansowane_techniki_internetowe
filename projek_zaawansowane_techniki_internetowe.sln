@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projek_zaawansowane_techniki_internetowe", "projek_zaawansowane_techniki_internetowe\projek_zaawansowane_techniki_internetowe.csproj", "{8F1460E6-A179-4043-A88F-2505C6C80E37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F1460E6-A179-4043-A88F-2505C6C80E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F1460E6-A179-4043-A88F-2505C6C80E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F1460E6-A179-4043-A88F-2505C6C80E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F1460E6-A179-4043-A88F-2505C6C80E37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00A59247-C8B1-405D-8ECC-7C62858650B6}
+	EndGlobalSection
+EndGlobal
