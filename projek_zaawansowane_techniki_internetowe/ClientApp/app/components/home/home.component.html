@@ -1,18 +1,19 @@
+<body>
+    <form [formGroup]="loginForm" ng-submit="onSubmit()">
+        <label>
+            Login:
+            <input type="text" formControlName="login" />
+        </label>
+        <br>
+        <label>
+            Password:
+            <input type="password" formControlName="password" />
+        </label>
+    </form>
 
-<form [formGroup]="loginForm" ng-submit="onSubmit()">
-    <label>
-        Login:
-        <input type="text" formControlName="login"/>
-    </label>
-    <br>
-    <label>
-        Password:
-        <input type="password" formControlName="password"/>
-    </label>
-</form>
-
-<button (click)="simpleFunction()">Log In</button>
-
-<div *ngIf="logged">
-    You are logged!
-</div>
+    <button (click)="simpleFunction()">Log In</button>
+ 
+    <div *ngIf="logged">
+        You are logged!
+    </div>
+</body>
